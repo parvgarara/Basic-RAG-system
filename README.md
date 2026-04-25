@@ -50,6 +50,3 @@ To run the basic standalone script (which runs a hardcoded query on the included
 ```bash
 python rag_system.py
 ```
-### 📄 License
-
-This project is open-source and available under the MIT License.
